@@ -1,4 +1,4 @@
-MCTS-and-Minimax-Othello
+MCTS-and-Minimax-Checkers
 
 
 Coded for DS340 class: Intro to AI and Machine Learning, final project in Fall 2022
